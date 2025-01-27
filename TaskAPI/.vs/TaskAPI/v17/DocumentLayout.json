@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Faculty Files\\BRTA\\TaskAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|c:\\faculty files\\brta\\taskapi\\taskapi\\services\\taskcollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\services\\taskcollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|c:\\faculty files\\brta\\taskapi\\taskapi\\models\\statusupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\models\\statusupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|c:\\faculty files\\brta\\taskapi\\taskapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|c:\\faculty files\\brta\\taskapi\\taskapi\\controllers\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\controllers\\exercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|c:\\faculty files\\brta\\taskapi\\taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|c:\\faculty files\\brta\\taskapi\\taskapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|c:\\faculty files\\brta\\taskapi\\taskapi\\notificationshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A4023-60B0-498C-AD67-5B7835D018B8}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\notificationshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Program.cs",
+              "ToolTip": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\Program.cs",
+              "RelativeToolTip": "TaskAPI\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:24:16.242Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:36:01.802Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExerciseController.cs",
+              "DocumentMoniker": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\Controllers\\ExerciseController.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Controllers\\ExerciseController.cs",
+              "ToolTip": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\Controllers\\ExerciseController.cs",
+              "RelativeToolTip": "TaskAPI\\Controllers\\ExerciseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:40:23.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskCollectionService.cs",
+              "DocumentMoniker": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\Services\\TaskCollectionService.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Services\\TaskCollectionService.cs",
+              "ToolTip": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\Services\\TaskCollectionService.cs",
+              "RelativeToolTip": "TaskAPI\\Services\\TaskCollectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:19:08.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\Models\\StatusUpdateRequest.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Models\\StatusUpdateRequest.cs",
+              "ToolTip": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\Models\\StatusUpdateRequest.cs",
+              "RelativeToolTip": "TaskAPI\\Models\\StatusUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T00:16:45.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T07:40:18.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationsHub.cs",
+              "DocumentMoniker": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\NotificationsHub.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\NotificationsHub.cs",
+              "ToolTip": "C:\\Faculty Files\\BRTA\\TaskAPI\\TaskAPI\\NotificationsHub.cs",
+              "RelativeToolTip": "TaskAPI\\NotificationsHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:24:18.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

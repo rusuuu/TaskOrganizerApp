@@ -1,0 +1,149 @@
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.exe
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.deps.json
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.runtimeconfig.json
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.pdb
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.AssemblyInfo.cs
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.TaskAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskAPI.props
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskAPI.props
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskAPI.props
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\scopedcss\bundle\TaskAPI.styles.css
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.csproj.Up2Date
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\refint\TaskAPI.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.pdb
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.genruntimeconfig.cache
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\ref\TaskAPI.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.xml
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.xml
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Filip\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.staticwebassets.endpoints.json
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.exe
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.deps.json
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.runtimeconfig.json
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.pdb
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.xml
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.AssemblyInfo.cs
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\scopedcss\bundle\TaskAPI.styles.css
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.TaskAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.TaskAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskAPI.props
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskAPI.props
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskAPI.props
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.csproj.Up2Date
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\refint\TaskAPI.dll
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.xml
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.pdb
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.genruntimeconfig.cache
+C:\Users\claud\Desktop\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\ref\TaskAPI.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\appsettings.json
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.staticwebassets.endpoints.json
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.exe
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.deps.json
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.runtimeconfig.json
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.pdb
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\TaskAPI.xml
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Snappier.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.csproj.AssemblyReference.cache
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.AssemblyInfoInputs.cache
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.AssemblyInfo.cs
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.csproj.CoreCompileInputs.cache
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\scopedcss\bundle\TaskAPI.styles.css
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.TaskAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.TaskAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskAPI.props
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskAPI.props
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskAPI.props
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.csproj.Up2Date
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\refint\TaskAPI.dll
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.xml
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.pdb
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\TaskAPI.genruntimeconfig.cache
+C:\Faculty Files\BRTA\TaskAPI\TaskAPI\obj\Debug\net8.0\ref\TaskAPI.dll
